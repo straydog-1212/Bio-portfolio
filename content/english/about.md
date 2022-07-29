@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "C-MOOR portfolio site"
+description = "Leul Tigabu (lulu)"
 date = "2021-05-24"
 +++
 
