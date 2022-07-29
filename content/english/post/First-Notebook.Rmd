@@ -1,5 +1,5 @@
 ---
-title: "First R Notebook"
+title: "First-R-Notebook"
 output: html_notebook
 ---
 
