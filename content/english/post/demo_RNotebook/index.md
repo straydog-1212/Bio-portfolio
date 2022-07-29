@@ -1,14 +1,14 @@
 +++
-author = "Katherine Cox"
+author = "Leul Tigabu"
 title = "Demo R Notebook post"
-date = "2021-05-25"
+date = "2022-07-29"
 description = "A post announcing and linking to an R Notebook"
 tags = [
     "R"
 ]
 +++
 
-Check out this [awesome R Notebook](RNotebook_demo.nb.html) I just made!
+This is an [R Notebook](RNotebook_demo.nb.html) I just made!
 
 Here is a paragraph or two introducing the Notebook - explain what you were working on, why you're interested, and/or what the most exciting results are.
 
